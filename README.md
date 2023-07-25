@@ -1,5 +1,5 @@
 #OVERVIEW
-RECIPE-WORLD(React app where you can get different food recipe according to your choice).
+- RECIPE-WORLD(React app where you can get different food recipe according to your choice).
 
 #REQUIREMENTS
 - spoonacular Api
